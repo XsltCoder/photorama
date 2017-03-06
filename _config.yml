@@ -1,8 +1,8 @@
 # Site settings
-title: PHOTORAMA
+title: PHOTORAMA by Nurbek
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
+description: "Mening Photo Journal"
+url: "https://XsltCoder.github.io"
 baseurl: "/photorama"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://XsltCoder.github.io/photorama/gallery/"  
+  - JOURNAL: "https://XsltCoder.github.io/photorama/journal/"
+  - ABOUT: "https://XsltCoder.github.io/photorama/about/"
 
 # All translation keys
 translations:
